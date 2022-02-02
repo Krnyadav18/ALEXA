@@ -31,8 +31,8 @@
             "required": false,
             "value": "ASTA BOT"
         },
-        "FULL_PAIN": {
-            "description": "Activate PAIN chat bot",
+        "FULL_ASTA": {
+            "description": "Activate ASTA chat bot",
             "required": false,
             "value": "false"
         },
